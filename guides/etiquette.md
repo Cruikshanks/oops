@@ -10,7 +10,7 @@ We believe gossip is good for morale, however refrain from idle (boring and unin
 
 ## Use your own mug
 
-On starting with OOPS you are expected to provide your own mug (the standard for mug selection is not yet written so please speak to a colleague for details before purchasing one).
+On starting with OOPS you are expected to provide your own mug see: [Choosing your mug](/standards/choosing_your_mug.md) 
 
 You should only ever use your own mug and not that of a colleagues. You may handle another colleagues mug but only once you have received written permission to do so. Email confirmation is acceptable.
 
