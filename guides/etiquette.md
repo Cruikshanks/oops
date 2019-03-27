@@ -4,7 +4,9 @@ To ensure homgenous team working and enthusiastically transform real-time partne
 
 ## Avoid idle gossip
 
-If the gossip is informative and interesting then that is acceptable. Ensure you share it with as many people as possible so no team member feels left out. However refrain from idle (boring and uninformative) gossip.
+If the gossip is informative and interesting then that is acceptable. Ensure you share it with as many people as possible so no team member feels left out.
+
+We believe gossip is good for morale, however refrain from idle (boring and uninformative) gossip.
 
 ## Use your own mug
 
