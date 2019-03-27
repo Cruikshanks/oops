@@ -15,6 +15,7 @@ This repository is a place where we store our team processes, standards, and inf
 ## Contents
 
 - [Guides](/guides)
+  - [Etiquette](/guides/etiquette.md)
 - [Processes](/processes)
 - [Standards](/standards)
 
