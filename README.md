@@ -18,7 +18,8 @@ This repository is a place where we store our team processes, standards, and inf
   - [Etiquette](/guides/etiquette.md)
 - [Processes](/processes)
 - [Standards](/standards)
-
+  - [Choosing your Mug](/standards/choosing_your_mug.md)
+  
 ## Contributing
 
 If you'd like to make a suggestion to the OOPS team create an issue or better yet raise a pull request and show us.
